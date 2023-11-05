@@ -11,9 +11,14 @@ Clash 及其周边项目于 2023 年 11 月上旬删库跑路，现提供部分�
 
 以上部分资源可在**互联网档案馆时光机**中找到，网址如下：
 
-- [@Dreamacro/Clash 仓库](https://web.archive.org/web/20231102080544/https://github.com/Dreamacro/clash)，[命令行版发布页](https://web.archive.org/web/20231102080544/https://github.com/Dreamacro/clash/releases)，[Premium 命令行版发布页](https://web.archive.org/web/20231102080403/https://github.com/Dreamacro/clash/releases/tag/premium)
-- [@yichengchen/ClashX 仓库](https://web.archive.org/web/20231103085620/https://github.com/yichengchen/clashX)，[软件发布页](https://web.archive.org/web/20231103102433/https://github.com/yichengchen/clashX/releases)
-- [@Fndroid/Clash for Windows 软件发布页](https://web.archive.org/web/20231101083947/https://github.com/Fndroid/clash_for_windows_pkg/releases)
+- **@Dreamacro/Clash**:
+  - [仓库](https://web.archive.org/web/20231102080544/https://github.com/Dreamacro/clash)
+  - [命令行版发布页](https://web.archive.org/web/20231102080544/https://github.com/Dreamacro/clash/releases)
+  - [Premium 命令行版发布页](https://web.archive.org/web/20231102080403/https://github.com/Dreamacro/clash/releases/tag/premium)
+- **@yichengchen/ClashX**:
+  - [仓库](https://web.archive.org/web/20231103085620/https://github.com/yichengchen/clashX)
+  - [软件发布页](https://web.archive.org/web/20231103102433/https://github.com/yichengchen/clashX/releases)
+- [**@Fndroid/Clash for Windows** 软件发布页](https://web.archive.org/web/20231101083947/https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
 ## 构建适用于本机的 Clash 命令行版
 
